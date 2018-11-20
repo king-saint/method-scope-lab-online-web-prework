@@ -1,4 +1,3 @@
-ruby
 
 require "spec_helper"
 
